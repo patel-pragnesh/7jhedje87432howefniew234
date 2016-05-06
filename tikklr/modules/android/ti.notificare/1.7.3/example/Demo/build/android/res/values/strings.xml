@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="notificare_notification_has_action" formatted="false">This notification has actions</string>
+	<string name="notificare_notification_error_gms_connect" formatted="false">Could not connect.</string>
+	<string name="notificare_action_title_intent_email" formatted="false">Send mail…</string>
+	<string name="notificare_action_title_intent_sms" formatted="false">Send SMS…</string>
+	<string name="notificare_action_title_intent_telephone" formatted="false">Call number…</string>
+	<string name="notificare_action_title_intent_passbook" formatted="false">Open pass…</string>
+	<string name="notificare_action_title_intent_more" formatted="false">More…</string>
+	<string name="notificare_action_error_no_email_clients" formatted="false">No email client installed.</string>
+	<string name="notificare_action_error_no_sms_clients" formatted="false">Can not send SMS.</string>
+	<string name="notificare_action_error_no_dialer" formatted="false">Can not make a phone call.</string>
+	<string name="notificare_action_progress" formatted="false">Performing action</string>
+	<string name="notificare_action_success" formatted="false">Action successful</string>
+	<string name="notificare_action_failed" formatted="false">Could not perform the action</string>
+	<string name="notificare_text_send" formatted="false">Send</string>
+	<string name="notificare_text_cancel" formatted="false">Cancel</string>
+	<string name="notificare_text_back" formatted="false">Back</string>
+	<string name="notificare_text_message_hint" formatted="false">type something</string>
+	<string name="notificare_action_camera_failed" formatted="false">Camera can not be used</string>
+	<string name="app_name" formatted="false">AppceleratorApp</string>
+</resources>

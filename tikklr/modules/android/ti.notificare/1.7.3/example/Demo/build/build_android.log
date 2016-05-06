@@ -1,0 +1,991 @@
+
+2/11/2016, 10:02:56 PM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.11.3
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8589934592
+
+Node.js
+  Node.js Version             = 5.3.0
+  npm Version                 = 3.7.1
+
+Titanium CLI
+  CLI Version                 = 5.0.5
+
+Titanium SDK
+  SDK Version                 = 5.1.2.GA
+  SDK Path                    = /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA
+  Target Platform             = android
+
+Command
+  /usr/local/bin/node /Users/joris/.appcelerator/install/5.1.0/package/node_modules/appc-cli-titanium/node_modules/titanium/bin/titanium build --platform android --target device --plugin-paths /Users/joris/.appcelerator/install/5.1.0/package/node_modules --config-file /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/build-1455224570137.json --log-level info --no-banner
+
+[INFO]   Auto selecting device that closest matches 6.0
+[DEBUG]  Searching for version >= 6.0 and has Google APIs
+[DEBUG]  Searching for version >= 6.0 and may have Google APIs
+[DEBUG]  Searching for version >= 6.0 and no Google APIs
+[DEBUG]  Searching for version < 6.0 and has Google APIs
+[DEBUG]  Searching for version < 6.0 and no Google APIs
+[DEBUG]  Selecting first device
+[INFO]   Auto selected device XT1572 6.0
+[DEBUG]  Detecting modules in /Users/joris/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.appcelerator.apm 1.1.1 @ /Users/joris/Library/Application Support/Titanium/modules/android/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected android module: facebook 4.0.3 @ /Users/joris/Library/Application Support/Titanium/modules/android/facebook/4.0.3
+[DEBUG]  Detected android module: facebook 4.0.5 @ /Users/joris/Library/Application Support/Titanium/modules/android/facebook/4.0.5
+[DEBUG]  Detected android module: ti.cloudpush 3.3.8 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.3.8
+[DEBUG]  Detected android module: ti.cloudpush 3.4.0 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.0
+[DEBUG]  Detected android module: ti.cloudpush 3.4.1 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.cloudpush/3.4.1
+[DEBUG]  Detected android module: ti.map 2.3.0 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.map/2.3.0
+[DEBUG]  Detected android module: ti.map 2.3.3 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.map/2.3.3
+[DEBUG]  Detected android module: ti.map 2.3.4 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.map/2.3.4
+[DEBUG]  Detected android module: ti.notificare 1.2.0 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.2.0
+[DEBUG]  Detected android module: ti.notificare 1.2.1 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.2.1
+[DEBUG]  Detected android module: ti.notificare 1.2.2 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.2.2
+[DEBUG]  Detected android module: ti.notificare 1.2.3 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.2.3
+[DEBUG]  Detected android module: ti.notificare 1.2.4 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.2.4
+[DEBUG]  Detected android module: ti.notificare 1.2.5 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.2.5
+[DEBUG]  Detected android module: ti.notificare 1.5.0 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.5.0
+[DEBUG]  Detected android module: ti.notificare 1.5.3 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.5.3
+[DEBUG]  Detected android module: ti.notificare 1.6.0 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.6.0
+[DEBUG]  Detected android module: ti.notificare 1.6.1 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.6.1
+[DEBUG]  Detected android module: ti.notificare 1.7.0 @ /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.8 @ /Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.8
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.9 @ /Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Detected iphone module: com.appcelerator.apm 1.1.1 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/com.appcelerator.apm/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 1.1.1 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/1.1.1
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.0.0 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.0.0
+[DEBUG]  Detected iphone module: facebook 4.0.3 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/facebook/4.0.3
+[DEBUG]  Detected iphone module: facebook 4.0.5 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/facebook/4.0.5
+[DEBUG]  Detected iphone module: ti.coremotion 1.1.0 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.coremotion/1.1.0
+[DEBUG]  Detected iphone module: ti.map 2.2.2 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.map/2.2.2
+[DEBUG]  Detected iphone module: ti.map 2.4.1 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.map/2.4.1
+[DEBUG]  Detected iphone module: ti.map 2.5.2 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.map/2.5.2
+[DEBUG]  Detected iphone module: ti.notificare 1.2.0 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.notificare/1.2.0
+[DEBUG]  Detected iphone module: ti.notificare 1.2.3 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.notificare/1.2.3
+[DEBUG]  Detected iphone module: ti.notificare 1.6.0 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.notificare/1.6.0
+[DEBUG]  Detected iphone module: ti.notificare 1.6.1 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.notificare/1.6.1
+[DEBUG]  Detected iphone module: ti.safaridialog 1.0.3 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.0.3
+[DEBUG]  Detected iphone module: ti.touchid 1.1.0 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.1.0
+[DEBUG]  Detected iphone module: ti.touchid 1.2.0 @ /Users/joris/Library/Application Support/Titanium/modules/iphone/ti.touchid/1.2.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=test
+[INFO]   Found Titanium module id=ti.cloud version=3.2.9 platform=commonjs deploy-type=test path=/Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9
+[DEBUG]  Looking for Titanium module id=ti.notificare version=latest platform=android deploy-type=test
+[INFO]   Found Titanium module id=ti.notificare version=1.7.0 platform=android deploy-type=test path=/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0
+[DEBUG]  Detecting plugins in /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/plugins
+[DEBUG]  Detected plugin: ti.alloy @ /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/plugins/ti.alloy
+[DEBUG]  Detecting plugins in /Users/joris/Library/Application Support/Titanium/plugins
+[DEBUG]  Detected plugin: com.appcelerator.test @ /Users/joris/Library/Application Support/Titanium/plugins/com.appcelerator.test
+[DEBUG]  Detected plugin: ti.notificare 1.0 @ /Users/joris/Library/Application Support/Titanium/plugins/ti.notificare/1.0
+[DEBUG]  Looking for Titanium plugin id=ti.alloy version=1.0
+[INFO]   Found Titanium plugin id=ti.alloy version=1.0 
+[DEBUG]  Looking for Titanium plugin id=ti.notificare version=1.0
+[INFO]   Found Titanium plugin id=ti.notificare version=1.0 
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android
+[INFO]   Deploy type: test
+[INFO]   Building for target: device
+[INFO]   Building for device: TA39100ER9
+[INFO]   Targeting Android SDK API: 23
+[INFO]   Building for the following architectures: armeabi, armeabi-v7a, x86
+[INFO]   Signing with keystore: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/dev_keystore (tidev)
+[DEBUG]  App ID: re.notifica.demo.geo
+[DEBUG]  Classname: Appceleratorapp
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Forcing rebuild: JavaScript files need to be re-encrypted
+[INFO]   Found Alloy app in /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/app
+[INFO]   Executing Alloy compile: /usr/local/bin/node /Users/joris/.appcelerator/install/5.1.0/package/node_modules/appc-cli-titanium/node_modules/alloy/bin/alloy compile /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/app --config platform=android,version=0,simtype=none,devicefamily=none,deploytype=test,target=device
+[DEBUG]         .__  .__                
+[DEBUG]  _____  |  | |  |   ____ ___.__.
+[DEBUG]  \__  \ |  | |  |  /  _ <   |  |
+[DEBUG]   / __ \|  |_|  |_(  <_> )___  |
+[DEBUG]  (____  /____/____/\____// ____|
+[DEBUG]       \/                 \/
+[DEBUG]  Alloy 1.7.26 by Appcelerator. The MVC app framework for Titanium.
+[DEBUG]  
+[DEBUG]  ----- CONFIGURATION -----
+[DEBUG]  raw config = "platform=android,version=0,simtype=none,devicefamily=none,deploytype=test,target=device"
+[DEBUG]  platform = android
+[DEBUG]  version = 0
+[DEBUG]  simtype = none
+[DEBUG]  devicefamily = none
+[DEBUG]  deploytype = test
+[DEBUG]  target = device
+[DEBUG]  project path = /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo
+[DEBUG]  app path = /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/app
+[DEBUG]  
+[DEBUG]  ----- CONFIG.JSON -----
+[DEBUG]  dependencies = {}
+[INFO]    [config.json] config.json unchanged, using cached config.json...
+[DEBUG]  {
+[DEBUG]    "dependencies": {},
+[DEBUG]    "sourcemap": true,
+[DEBUG]    "autoStyle": false,
+[DEBUG]    "adapters": [
+[DEBUG]      "localStorage",
+[DEBUG]      "properties",
+[DEBUG]      "sql"
+[DEBUG]    ]
+[DEBUG]  }
+[DEBUG]  
+[DEBUG]  ----- CLEANING RESOURCES -----
+[DEBUG]  Removing orphaned controllers ...
+[DEBUG]  Removing orphaned models ...
+[DEBUG]  Removing orphaned styles ...
+[DEBUG]  Removing orphaned sync adapters...
+[DEBUG]  Removing orphaned assets and libs...
+[DEBUG]  
+[DEBUG]  ----- BASE RUNTIME FILES -----
+[TRACE]  SRC_DIR=/Users/joris/.appcelerator/install/5.1.0/package/node_modules/appc-cli-titanium/node_modules/alloy/Alloy/lib
+[TRACE]  Copying SRC_DIR/alloy/sync/sql.js --> Resources/android/alloy/sync/sql.js
+[TRACE]  Copying SRC_DIR/alloy/sync/properties.js --> Resources/android/alloy/sync/properties.js
+[TRACE]  Copying SRC_DIR/alloy/sync/localStorage.js --> Resources/android/alloy/sync/localStorage.js
+[TRACE]  Copying SRC_DIR/alloy/controllers/BaseController.js --> Resources/android/alloy/controllers/BaseController.js
+[TRACE]  Copying SRC_DIR/alloy/widget.js --> Resources/android/alloy/widget.js
+[TRACE]  Copying SRC_DIR/alloy/underscore.js --> Resources/android/alloy/underscore.js
+[TRACE]  Copying SRC_DIR/alloy.js --> Resources/android/alloy.js
+[TRACE]  
+[TRACE]  SRC_DIR=/Users/joris/.appcelerator/install/5.1.0/package/node_modules/appc-cli-titanium/node_modules/alloy/Alloy/common
+[TRACE]  Copying SRC_DIR/constants.js --> Resources/android/alloy/constants.js
+[TRACE]  
+[TRACE]  SRC_DIR=/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/app/assets
+[TRACE]  
+[DEBUG]  
+[INFO]   ----- MVC GENERATION -----
+[INFO]   [global style] loading from cache...
+[INFO]   [index.xml] view processing...
+[INFO]     style:      "index.tss"
+[INFO]     view:       "index.xml"
+[INFO]     controller: "index.js"
+[TRACE]  - Processing "builtins" module...
+[TRACE]  - Processing "optimizer" module...
+[TRACE]  - Processing "compress" module...
+[INFO]     created:    "Resources/android/alloy/controllers/index.js"
+[DEBUG]    map:        "build/map/Resources/android/alloy/controllers/index.js.map"
+[INFO]     created:     "Resources/android/alloy/styles/index.js"
+[INFO]   
+[INFO]   
+[INFO]   [app.js] using cached app.js...
+[INFO]   
+[INFO]   ----- OPTIMIZING -----
+[INFO]   - android/alloy.js
+[TRACE]    processing "builtins" module...
+[TRACE]    processing "optimizer" module...
+[TRACE]    processing "compress" module...
+[INFO]   - android/alloy/sync/localStorage.js
+[TRACE]    processing "builtins" module...
+[TRACE]    processing "optimizer" module...
+[TRACE]    processing "compress" module...
+[INFO]   - android/alloy/sync/properties.js
+[TRACE]    processing "builtins" module...
+[TRACE]    processing "optimizer" module...
+[TRACE]    processing "compress" module...
+[INFO]   - android/alloy/sync/sql.js
+[TRACE]    processing "builtins" module...
+[TRACE]    processing "optimizer" module...
+[TRACE]    processing "compress" module...
+[TRACE]   
+[TRACE]  Benchmarking
+[TRACE]  ------------
+[TRACE]  [0.70961s] TOTAL
+[INFO]   
+[INFO]   Alloy compiled in 0.70961s
+[INFO]   Alloy compiler completed successfully
+[TRACE]  offline build file /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/build-6a3eea81906d2fea85fa72c616d8ae7ea0f25e77.json
+[TRACE]  online 1
+[TRACE]  sending request {"json":{"username":"joris@notifica.re","session":"d7ba71036170b393eceb539fa0aefa532cd6985d 34L2ic2Aj+Vl8HZKNOtcag8b87JannTywophlz5+RpgJJ8nGP/AXH71FO0c3lucqeVgdWO7JSmVd1Dz/384JaQnO5PY4RP7HAd1IHYtLSJKDrKsP6hUOJtT/mU+gTlNWxdRDxJiiSjVerlrzAyRs8VfEBh1kqajwXiSlz1JfZZHcqGQTewIjYL943CLfYOORBHqE5xeQDVU7+YrvQiJtctUAYkz+5lqLBrwCONbtD0itdYXZhN2eVIF62VgoRYzVeRICoNIaoFqgwr5YmiGjP7/9hygShrrTeSQcLRs2FaembQb/Q8ib4fzKJNK+2Y85qzl6Pr8QhVGrHAKQ9hZJ2kysNPyH9RKlyBc5/QBB+M0DjfR3LWm1N/jkMxKfkrcgPQXUDHcCj/v6r/YbrlD2UcIFT2OZIOaCBfTb9tj8KeUuObrp4wJAC5mg80ILQY6wet2GpKXzExrB4Namc9Kx2eCprDDDxkYT89bFk0cuYOreLMatDrxhGnytvXznyt9uZpCk6sZytJ8/KDbQ1Kh6ZRdBE7+LBuRK/flf3bS7nPJgosf0iblyEX2RvZUNlP+NUgSooNaQpJRt4I6QKNW7yt4ufPA2mq5NnnBof7TAVxxyvbeal2M3HwOgyI5SJWIwDl1j5Ddp1UsDKDBuq+F/Rm1tJg3ua+SR6Z/GCEA3hsor3ilUwGe4b6vVYmQXaSkE0pJ15YdRVIbZoRml4KI74jtXrnsG193EpIXz398/p1Lb9rsKbaWFebUZXqgjj9mTq3hjT3pz90qpnKY7UuC2TPPFONWqGDhHVnCn05GL3K8=","ipaddress":"192.168.1.17","fingerprint":"6a792ecf9b0ad1ad29e3270e416692bee5ec75e4","fingerprint_description":"Mac OSX Serial Number: C02PH3CJFVH6","guid":"135ba793-e38f-40c8-9ddd-3172ecf05dbe","appid":"re.notifica.demo.geo","name":"AppceleratorApp","org_id":100026621,"deploytype":"test","tiappxml":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<ti:app \n  xmlns:ti=\"http://ti.appcelerator.org\">\n  <id>re.notifica.demo.geo</id>\n  <name>AppceleratorApp</name>\n  <version>1.0</version>\n  <publisher>Notificare B.V.</publisher>\n  <url>http://notifica.re</url>\n  <description/>\n  <copyright>2016 Notificare B.V.</copyright>\n  <icon>appicon.png</icon>\n  <fullscreen>false</fullscreen>\n  <navbar-hidden>false</navbar-hidden>\n  <analytics>true</analytics>\n  <guid>135ba793-e38f-40c8-9ddd-3172ecf05dbe</guid>\n  <property name=\"ti.ui.defaultunit\" type=\"string\">dp</property>\n  <ios>\n    <plist>\n      <dict>\n        <key>UISupportedInterfaceOrientations~iphone</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n        </array>\n        <key>UISupportedInterfaceOrientations~ipad</key>\n        <array>\n          <string>UIInterfaceOrientationPortrait</string>\n          <string>UIInterfaceOrientationPortraitUpsideDown</string>\n          <string>UIInterfaceOrientationLandscapeLeft</string>\n          <string>UIInterfaceOrientationLandscapeRight</string>\n        </array>\n        <key>UIRequiresPersistentWiFi</key>\n        <false/>\n        <key>UIPrerenderedIcon</key>\n        <false/>\n        <key>UIStatusBarHidden</key>\n        <false/>\n        <key>UIStatusBarStyle</key>\n        <string>UIStatusBarStyleDefault</string>\n        <key>NSLocationAlwaysUsageDescription</key>\n        <string>\n                    Specify the reason for accessing the user's location information.\n                    This appears in the alert dialog when asking the user for permission to\n                    access their location.\n                </string>\n        <key>UIBackgroundModes</key>\n        <array>\n          <string>remote-notification</string>\n        </array>\n      </dict>\n    </plist>\n  </ios>\n  <android \n    xmlns:android=\"http://schemas.android.com/apk/res/android\">\n    <manifest>\n      <uses-sdk android:targetSdkVersion=\"23\"/>\n    </manifest>\n  </android>\n  <mobileweb>\n    <precache/>\n    <splash>\n      <enabled>true</enabled>\n      <inline-css-images>true</inline-css-images>\n    </splash>\n    <theme>default</theme>\n  </mobileweb>\n  <modules>\n    <module platform=\"commonjs\">ti.cloud</module>\n    <module platform=\"android\">ti.notificare</module>\n    <module platform=\"iphone\">ti.notificare</module>\n  </modules>\n  <deployment-targets>\n    <target device=\"android\">true</target>\n    <target device=\"ipad\">false</target>\n    <target device=\"iphone\">false</target>\n    <target device=\"mobileweb\">false</target>\n    <target device=\"windows\">false</target>\n  </deployment-targets>\n  <sdk-version>5.1.2.GA</sdk-version>\n  <plugins>\n    <plugin version=\"1.0\">ti.alloy</plugin>\n    <plugin version=\"1.0\">ti.notificare</plugin>\n  </plugins>\n  <property name=\"appc-app-id\" type=\"string\">5563239dc822899622782867</property>\n  <property name=\"acs-authbase-url-development\" type=\"string\">***</property>\n  <property name=\"acs-base-url-development\" type=\"string\">***</property>\n  <property name=\"acs-oauth-secret-development\" type=\"string\">***</property>\n  <property name=\"acs-oauth-key-development\" type=\"string\">***</property>\n  <property name=\"acs-api-key-development\" type=\"string\">***</property>\n  <property name=\"acs-username-development\" type=\"string\">***</property>\n  <property name=\"acs-password-development\" type=\"string\">***</property>\n  <property name=\"acs-authbase-url-production\" type=\"string\">***</property>\n  <property name=\"acs-base-url-production\" type=\"string\">***</property>\n  <property name=\"acs-oauth-secret-production\" type=\"string\">***</property>\n  <property name=\"acs-oauth-key-production\" type=\"string\">***</property>\n  <property name=\"acs-api-key-production\" type=\"string\">***</property>\n  <property name=\"acs-username-production\" type=\"string\">***</property>\n  <property name=\"acs-password-production\" type=\"string\">***</property>\n  <property name=\"appc-org-id\" type=\"string\">100026621</property>\n  <property name=\"appc-creator-user-id\" type=\"string\">be389fa3-e190-4ae7-8c55-21b53d1a6d1c</property>\n</ti:app>","modules":[{"id":"ti.cloud","platform":["commonjs"],"deployType":["test"],"modulePath":"/Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9","version":"3.2.9","manifest":{"version":"3.2.9","description":"Appcelerator Cloud Services","author":"Dawson Toth, Jeff English, Jon Alter, Paul Lv, Michael Goff, and Pedro Enrique","license":"Appcelerator Commercial License","copyright":"Copyright (c) 2011-2014 by Appcelerator,  Inc.","name":"ti.cloud","moduleid":"ti.cloud","guid":"1056b5d2-2bb5-4339-b930-297637aeec4e","platform":"commonjs","minsdk":"2.1.0"},"native":false,"libFile":"/Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9/ti.cloud.js"},{"id":"ti.notificare","platform":["android"],"deployType":["test"],"modulePath":"/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0","version":"1.7.0","manifest":{"version":"1.7.0","apiversion":"2","architectures":"armeabi armeabi-v7a x86","description":"notificare-titanium-android","author":"Notificare","license":"MIT","copyright":"Copyright (c) 2016 by Notificare","respackage":"re.notifica","name":"notificare-titanium-android","moduleid":"ti.notificare","guid":"8664442b-01c0-4167-925b-b93b2c8eaf2f","platform":"android","minsdk":"5.1.2.GA"},"native":true,"jarName":"notificare-titanium-android.jar","jarFile":"/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/notificare-titanium-android.jar","hash":"8766d96317a0518fe173e54812e33089","abis":["armeabi","armeabi-v7a","x86"],"bindings":{"proxies":{"ti.notificare.NotificareTitaniumAndroidModule":{"superPackageName":"org.appcelerator.kroll","dynamicProperties":{"userName":{"set":true,"nativeConverter":"org.appcelerator.kroll.KrollConverter","getMethodName":"getUserName","setMethodName":"setUserName","setMethodArgs":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"userName","sourceName":"userName","type":"java.lang.String"}],"setDefaultProviders":["org.appcelerator.kroll.KrollConverter"],"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","retain":true,"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getHasInvocation":false,"runOnUiThread":false,"getMethodArgs":[],"getReturnType":"java.lang.String","setReturnType":"void","get":true,"name":"userName","setHasInvocation":false,"getDefaultProviders":[]},"userID":{"set":true,"nativeConverter":"org.appcelerator.kroll.KrollConverter","getMethodName":"getUserID","setMethodName":"setUserID","setMethodArgs":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"userID","sourceName":"userID","type":"java.lang.String"}],"setDefaultProviders":["org.appcelerator.kroll.KrollConverter"],"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","retain":true,"javascriptConverter":"org.appcelerator.kroll.KrollConverter","getHasInvocation":false,"runOnUiThread":false,"getMethodArgs":[],"getReturnType":"java.lang.String","setReturnType":"void","get":true,"name":"userID","setHasInvocation":false,"getDefaultProviders":[]},"deviceID":{"set":false,"nativeConverter":"org.appcelerator.kroll.KrollConverter","getMethodName":"getDeviceID","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","javascriptConverter":"org.appcelerator.kroll.KrollConverter","getHasInvocation":false,"runOnUiThread":false,"getMethodArgs":[],"getReturnType":"java.lang.String","get":true,"name":"deviceID","setHasInvocation":false,"getDefaultProviders":[]}},"methods":{"clearInbox":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"success","optional":true,"sourceName":"success","type":"org.appcelerator.kroll.KrollFunction"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"error","optional":true,"sourceName":"error","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"clearInbox","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"enableLocationUpdates":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"permissionCallback","optional":true,"sourceName":"permissionCallback","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"enableLocationUpdates","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"openNotification":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"notification","optional":false,"sourceName":"notificationObject","type":"org.appcelerator.kroll.KrollDict"}],"apiName":"openNotification","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"logCustomEvent":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"name","optional":false,"sourceName":"name","type":"java.lang.String"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"data","optional":true,"sourceName":"data","type":"org.appcelerator.kroll.KrollDict"}],"apiName":"logCustomEvent","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"enableNotifications":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"enableNotifications","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"fetchInbox":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"success","optional":false,"sourceName":"success","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"fetchInbox","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"getTags":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"getTags","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"removeFromInbox":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"item","optional":false,"sourceName":"item","type":"org.appcelerator.kroll.KrollDict"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"success","optional":true,"sourceName":"success","type":"org.appcelerator.kroll.KrollFunction"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"error","optional":true,"sourceName":"error","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"removeFromInbox","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"removeInboxItem":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"item","optional":false,"sourceName":"item","type":"org.appcelerator.kroll.KrollDict"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"success","optional":true,"sourceName":"success","type":"org.appcelerator.kroll.KrollFunction"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"error","optional":true,"sourceName":"error","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"removeInboxItem","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"markAsRead":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"item","optional":false,"sourceName":"item","type":"org.appcelerator.kroll.KrollDict"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"success","optional":true,"sourceName":"success","type":"org.appcelerator.kroll.KrollFunction"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"error","optional":true,"sourceName":"error","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"markAsRead","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"openInboxItem":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"notification","optional":false,"sourceName":"item","type":"org.appcelerator.kroll.KrollDict"}],"apiName":"openInboxItem","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"getDeviceID":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"getDeviceID","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"java.lang.String"},"registerDevice":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"deviceId","optional":false,"sourceName":"deviceId","type":"java.lang.String"}],"apiName":"registerDevice","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"addTags":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"tags","optional":false,"sourceName":"tags","type":"java.lang.String[]"}],"apiName":"addTags","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"setUserName":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"userName","sourceName":"userName","type":"java.lang.String"}],"apiName":"setUserName","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"enableBilling":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"enableBilling","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"enableBeacons":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"enableBeacons","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"getUserName":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"getUserName","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"java.lang.String"},"removeTag":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"tag","optional":false,"sourceName":"tag","type":"java.lang.String"}],"apiName":"removeTag","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"clearTags":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"clearTags","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"getUserID":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"getUserID","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"java.lang.String"},"markInboxItem":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"item","optional":false,"sourceName":"item","type":"org.appcelerator.kroll.KrollDict"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"success","optional":true,"sourceName":"success","type":"org.appcelerator.kroll.KrollFunction"},{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"error","optional":true,"sourceName":"error","type":"org.appcelerator.kroll.KrollFunction"}],"apiName":"markInboxItem","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"setUserID":{"runOnUiThread":false,"hasInvocation":false,"args":[{"converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"userID","sourceName":"userID","type":"java.lang.String"}],"apiName":"setUserID","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"void"},"getInboxItems":{"runOnUiThread":false,"hasInvocation":false,"args":[],"apiName":"getInboxItems","converter":"org.appcelerator.kroll.KrollConverter","defaultValueProvider":"org.appcelerator.kroll.KrollConverter","name":"__default_name__","returnType":"java.lang.Object[]"}},"superProxyBindingClassName":"org.appcelerator.kroll.KrollModuleBindingGen","proxyClassName":"NotificareTitaniumAndroidModule","proxyAttrs":{"propertyAccessors":[],"fullAPIName":"NotificareTitaniumAndroid","name":"NotificareTitaniumAndroid","proxyClassName":"ti.notificare.NotificareTitaniumAndroidModule","isTopLevel":false,"id":"ti.notificare"},"packageName":"ti.notificare","sourceName":"ti.notificare.NotificareTitaniumAndroidModuleBindingGen","superProxyClassName":"KrollModule","isModule":true,"genClassName":"NotificareTitaniumAndroidModuleBindingGen","onAppCreate":"onAppCreate"},"ti.notificare.ActivityWorkerProxy":{"superPackageName":"org.appcelerator.kroll","superProxyBindingClassName":"org.appcelerator.kroll.KrollProxyBindingGen","proxyClassName":"ActivityWorkerProxy","proxyAttrs":{"propertyAccessors":[],"fullAPIName":"NotificareTitaniumAndroid.ActivityWorker","name":"ActivityWorker","proxyClassName":"ti.notificare.ActivityWorkerProxy","isTopLevel":false,"id":"ti.notificare.ActivityWorkerProxy","creatableInModule":"ti.notificare.NotificareTitaniumAndroidModule","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT"},"packageName":"ti.notificare","sourceName":"ti.notificare.ActivityWorkerProxyBindingGen","superProxyClassName":"KrollProxy","isModule":false,"genClassName":"ActivityWorkerProxyBindingGen"}},"modules":{"ti.notificare.NotificareTitaniumAndroidModule":{"apiName":"NotificareTitaniumAndroid","createProxies":[{"propertyAccessors":[],"fullAPIName":"NotificareTitaniumAndroid.ActivityWorker","name":"ActivityWorker","proxyClassName":"ti.notificare.ActivityWorkerProxy","isTopLevel":false,"id":"ti.notificare.ActivityWorkerProxy","creatableInModule":"ti.notificare.NotificareTitaniumAndroidModule","parentModule":"org.appcelerator.kroll.annotations.Kroll.DEFAULT"}]}}}}]},"gzip":true,"followAllRedirects":true,"url":"https://security.appcelerator.com/build-verify"}
+[TRACE]  result from /build-verify=> {"key":"XgohvVZbikoEpzyyd+fdMQ==","pepper":"u/nyhRJkSr2rJ2W0TwBttg==","hmacKey":"MPyzXPlC52rIYXj/Q1jXag==","o":100026621,"u":"be389fa3-e190-4ae7-8c55-21b53d1a6d1c","p":"free","i":"56bcf703bb2d990910787d36","success":true}, err=null
+[INFO]   JavaScript files need to be encrypted
+[DEBUG]  Copying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources
+[DEBUG]  Ignoring /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android
+[DEBUG]  Copying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android
+[WARN]   Overwriting file /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-long-land-hdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-long-land-ldpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-long-land-mdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-long-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-long-port-hdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-long-port-ldpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-notlong-land-hdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-notlong-land-ldpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-notlong-land-mdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-notlong-port-hdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-notlong-port-ldpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/images/res-notlong-port-mdpi/default.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG]  Copying /Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9/ti.cloud.js
+[DEBUG]  Copying /Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9/assets
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_alert_dialog.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_alert_dialog.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_callback_camera.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_callback_camera.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_callback_camera_keyboard.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_callback_camera_keyboard.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_callback_keyboard.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_callback_keyboard.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_notification_container.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_notification_container.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_notification_fragment.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_notification_fragment.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_notification_image.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_notification_image.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/layout/notificare_webview_fragment.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/layout/notificare_webview_fragment.xml
+[DEBUG]  Copying /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/values/strings_preferences.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings_preferences.xml
+[DEBUG]  Symlinking /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/platform/android/res/xml/notificare_preferences.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/xml/notificare_preferences.xml
+[WARN]   Overwriting file /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets/notificareconfig.properties
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/bin/assets/notificareconfig.properties => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets/notificareconfig.properties
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/res/drawable-hdpi/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-hdpi/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/res/drawable-ldpi/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-ldpi/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/res/drawable-mdpi/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-mdpi/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/res/drawable-xhdpi/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-xhdpi/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/res/drawable-xxhdpi/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-xxhdpi/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/platform/android/res/drawable-xxxhdpi/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable-xxxhdpi/appicon.png
+[DEBUG]  Symlinking /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets/Resources/appicon.png => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/drawable/appicon.png
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/CFG.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/CFG.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/app.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/app.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/backbone.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/backbone.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/constants.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/constants.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/controllers/BaseController.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/controllers/BaseController.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/controllers/index.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/controllers/index.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/styles/index.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/styles/index.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/sync/localStorage.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/sync/localStorage.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/sync/properties.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/sync/properties.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/sync/sql.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/sync/sql.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/underscore.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/underscore.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy/widget.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy/widget.js
+[DEBUG]  Copying and minifying /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/Resources/android/alloy.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/alloy.js
+[DEBUG]  Copying and minifying /Users/joris/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.9/ti.cloud.js => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets/ti.cloud.js
+[INFO]   Encrypting JavaScript files: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/titanium_prep.macos "re.notifica.demo.geo" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/assets" "alloy/CFG.js" "app.js" "alloy/backbone.js" "alloy/constants.js" "alloy/controllers/BaseController.js" "alloy/controllers/index.js" "alloy/styles/index.js" "alloy/sync/localStorage.js" "alloy/sync/properties.js" "alloy/sync/sql.js" "alloy/underscore.js" "alloy/widget.js" "alloy.js" "ti.cloud.js" "_app_props_.json"
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-v8.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/aps-analytics.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-android.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-common.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/titanium.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-app.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-ui.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-media.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v4.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-cardview.jar
+[DEBUG]  Adding dependency library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/cardview-v7-23.0.1.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-locale.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-network.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-xml.jar
+[DEBUG]  Unknown namespace api, skipping
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-platform.jar
+[DEBUG]  Adding library /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-database.jar
+[DEBUG]  Unknown namespace platform.displaycaps, skipping
+[DEBUG]  Unknown namespace app.deploytype, skipping
+[DEBUG]  Unknown namespace ui.ios, skipping
+[INFO]   Writing /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets/app.json
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-analytics.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-8lrp18/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-android.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-kxdpgq/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-app.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-1x2kp98/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-filesystem.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-1bos4ot/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-media.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-6qt5n1/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-locale.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-1vxa40e/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-network.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-j2y0f0/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-xml.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-1ca07v7/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-platform.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-143aepq/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Extracting module resources: /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-database.res.zip
+[DEBUG]  Merging /var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-w2hhwg/res/values/strings.xml => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[DEBUG]  Removing old file: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/.classpath
+[DEBUG]  Removing old file: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/.gitignore
+[DEBUG]  Removing old file: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/.project
+[DEBUG]  Removing old file: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/AndroidManifest.xml
+[DEBUG]  Removing old file: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/default.properties
+[DEBUG]  Removing old file: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/java-sources.txt
+[DEBUG]  Copying template /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/AppInfo.java => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/gen/re/notifica/demo/geo/AppceleratorappAppInfo.java
+[DEBUG]  Copying template /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/App.java => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/gen/re/notifica/demo/geo/AppceleratorappApplication.java
+[DEBUG]  Copying template /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/Activity.java => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/gen/re/notifica/demo/geo/AppceleratorappActivity.java
+[DEBUG]  Copying template /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/project => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/.project
+[DEBUG]  Copying template /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/default.properties => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/default.properties
+[DEBUG]  Copying /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/gitignore => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/.gitignore
+[DEBUG]  Copying /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/templates/build/classpath => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/.classpath
+[INFO]   No aidl files to compile, continuing
+[INFO]   Generating i18n files
+[DEBUG]  Merging en strings => /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/strings.xml
+[INFO]   Generating /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res/values/theme.xml
+[INFO]   Packaging application: /Users/joris/Library/Android/sdk/build-tools/23.0.2/aapt "package" "-f" "-m" "-J" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/gen" "-M" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/AndroidManifest.xml" "-A" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/assets" "-S" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/res" "-I" "/Users/joris/Library/Android/sdk/platforms/android-23/android.jar" "-F" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/app.ap_" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview:re.notifica:com.google.android.gms" "-S" "/var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-kcmmc7/res" "-S" "/var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-1du2mwr/res" "-S" "/var/folders/26/hnbm44ps0qvddqr01qygm12m0000gn/T/116111-96711-1spfvn4/res" "-S" "/Users/joris/Library/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/res"
+[INFO]   Building Java source files: /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/bin/javac "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "/Users/joris/Library/Android/sdk/platforms/android-23/android.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-v8.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-analytics.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/aps-analytics.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-android.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/jaxen-1.1.1.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/ti-commons-codec-1.3.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-common.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/titanium.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-app.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-ui.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/nineoldandroids-appc-2.4.0.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-filesystem.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-media.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-appcompat.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v4.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v7-appcompat.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-cardview.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/cardview-v7-23.0.1.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-locale.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-network.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-xml.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-platform.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-database.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/notificare-titanium-android.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/android-beacon-library-2.7.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/notificare-push-lib.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-base-8.4.0.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-basement-8.4.0.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-gcm-8.4.0.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-location-8.4.0.jar:/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-maps-8.4.0.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-apt.jar:/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/lib/titanium-verify.jar:Manifest.class:R.class:AppceleratorappActivity.class:AppceleratorappAppInfo.class:AppceleratorappApplication.class:AssetCryptImpl.class" "-d" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/java-sources.txt"
+[INFO]   Running dexer: /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/bin/java "-Xmx2048M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=/Users/joris/Library/Android/sdk/platform-tools" "-jar" "/Users/joris/Library/Android/sdk/build-tools/23.0.2/lib/dx.jar" "--dex" "--output=/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/classes.dex" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/classes" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/lib/titanium-verify.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/notificare-titanium-android.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/android-beacon-library-2.7.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/notificare-push-lib.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-base-8.4.0.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-basement-8.4.0.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-gcm-8.4.0.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-location-8.4.0.jar" "/Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-maps-8.4.0.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-v8.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-analytics.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/aps-analytics.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-android.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/jaxen-1.1.1.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/ti-commons-codec-1.3.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-common.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/titanium.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-app.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-ui.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/nineoldandroids-appc-2.4.0.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-filesystem.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-media.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-appcompat.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v4.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v7-appcompat.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-cardview.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/cardview-v7-23.0.1.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-locale.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-network.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-xml.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-platform.jar" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-database.jar"
+[INFO]   Creating unsigned apk
+[DEBUG]  Processing /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/app.ap_
+[DEBUG]  Deflating AndroidManifest.xml
+[DEBUG]  Adding assets/Resources/appicon.png
+[DEBUG]  Deflating assets/app.json
+[DEBUG]  Deflating assets/index.json
+[DEBUG]  Deflating assets/notificareconfig.properties
+[DEBUG]  Deflating res/anim/abc_fade_in.xml
+[DEBUG]  Deflating res/anim/abc_fade_out.xml
+[DEBUG]  Deflating res/anim/abc_grow_fade_in_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_popup_enter.xml
+[DEBUG]  Deflating res/anim/abc_popup_exit.xml
+[DEBUG]  Deflating res/anim/abc_shrink_fade_out_from_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_in_top.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_bottom.xml
+[DEBUG]  Deflating res/anim/abc_slide_out_top.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color-v11/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color-v23/abc_color_highlight_material.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_dark.xml
+[DEBUG]  Deflating res/color/abc_background_cache_hint_selector_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_disable_only_material_light.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_primary_text_material_light.xml
+[DEBUG]  Deflating res/color/abc_search_url_text.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_dark.xml
+[DEBUG]  Deflating res/color/abc_secondary_text_material_light.xml
+[DEBUG]  Deflating res/color/common_google_signin_btn_text_dark.xml
+[DEBUG]  Deflating res/color/common_google_signin_btn_text_light.xml
+[DEBUG]  Deflating res/color/common_plus_signin_btn_text_dark.xml
+[DEBUG]  Deflating res/color/common_plus_signin_btn_text_light.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_dark.xml
+[DEBUG]  Deflating res/color/switch_thumb_material_light.xml
+[DEBUG]  Deflating res/color/wallet_primary_text_holo_light.xml
+[DEBUG]  Deflating res/color/wallet_secondary_text_holo_dark.xml
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cast_ic_notification_0.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cast_ic_notification_1.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cast_ic_notification_2.png
+[DEBUG]  Adding res/drawable-hdpi-v4/cast_ic_notification_on.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_full_open_on_phone.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_ic_googleplayservices.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+[DEBUG]  Adding res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+[DEBUG]  Adding res/drawable-hdpi-v4/places_ic_clear.png
+[DEBUG]  Adding res/drawable-hdpi-v4/places_ic_search.png
+[DEBUG]  Adding res/drawable-hdpi-v4/powered_by_google_dark.png
+[DEBUG]  Adding res/drawable-hdpi-v4/powered_by_google_light.png
+[DEBUG]  Adding res/drawable-ldpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-ldrtl-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-long-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-long-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cast_ic_notification_0.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cast_ic_notification_1.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cast_ic_notification_2.png
+[DEBUG]  Adding res/drawable-mdpi-v4/cast_ic_notification_on.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_full_open_on_phone.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+[DEBUG]  Adding res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+[DEBUG]  Adding res/drawable-mdpi-v4/places_ic_clear.png
+[DEBUG]  Adding res/drawable-mdpi-v4/places_ic_search.png
+[DEBUG]  Adding res/drawable-mdpi-v4/powered_by_google_dark.png
+[DEBUG]  Adding res/drawable-mdpi-v4/powered_by_google_light.png
+[DEBUG]  Adding res/drawable-notlong-land-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-land-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-hdpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-ldpi-v4/background.png
+[DEBUG]  Adding res/drawable-notlong-port-mdpi-v4/background.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_full_open_on_phone.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/ic_plusone_small_off_client.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png
+[DEBUG]  Adding res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png
+[DEBUG]  Deflating res/drawable-v21/abc_action_bar_item_background_material.xml
+[DEBUG]  Deflating res/drawable-v21/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable-v23/abc_control_background_material.xml
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cast_ic_notification_0.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cast_ic_notification_1.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cast_ic_notification_2.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/cast_ic_notification_on.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_full_open_on_phone.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/places_ic_clear.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/places_ic_search.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/powered_by_google_dark.png
+[DEBUG]  Adding res/drawable-xhdpi-v4/powered_by_google_light.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cast_ic_notification_0.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cast_ic_notification_1.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cast_ic_notification_2.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/cast_ic_notification_on.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_full_open_on_phone.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/places_ic_clear.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/places_ic_search.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/powered_by_google_dark.png
+[DEBUG]  Adding res/drawable-xxhdpi-v4/powered_by_google_light.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/appicon.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/places_ic_clear.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/places_ic_search.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/powered_by_google_dark.png
+[DEBUG]  Adding res/drawable-xxxhdpi-v4/powered_by_google_light.png
+[DEBUG]  Deflating res/drawable/abc_btn_borderless_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_check_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_colored_material.xml
+[DEBUG]  Deflating res/drawable/abc_btn_default_mtrl_shape.xml
+[DEBUG]  Deflating res/drawable/abc_btn_radio_material.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_internal_bg.xml
+[DEBUG]  Deflating res/drawable/abc_cab_background_top_material.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_dark.xml
+[DEBUG]  Deflating res/drawable/abc_dialog_material_background_light.xml
+[DEBUG]  Deflating res/drawable/abc_edit_text_material.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_item_background_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_background_transition_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_dark.xml
+[DEBUG]  Deflating res/drawable/abc_list_selector_holo_light.xml
+[DEBUG]  Deflating res/drawable/abc_ratingbar_full_material.xml
+[DEBUG]  Deflating res/drawable/abc_spinner_textfield_background_material.xml
+[DEBUG]  Deflating res/drawable/abc_switch_thumb_material.xml
+[DEBUG]  Deflating res/drawable/abc_tab_indicator_material.xml
+[DEBUG]  Deflating res/drawable/abc_text_cursor_material.xml
+[DEBUG]  Deflating res/drawable/abc_textfield_search_material.xml
+[DEBUG]  Adding res/drawable/appicon.png
+[DEBUG]  Adding res/drawable/background.png
+[DEBUG]  Adding res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding res/drawable/btn_more_64.png
+[DEBUG]  Deflating res/drawable/cast_ic_notification_connecting.xml
+[DEBUG]  Deflating res/drawable/common_google_signin_btn_icon_dark.xml
+[DEBUG]  Deflating res/drawable/common_google_signin_btn_icon_light.xml
+[DEBUG]  Deflating res/drawable/common_google_signin_btn_text_dark.xml
+[DEBUG]  Deflating res/drawable/common_google_signin_btn_text_light.xml
+[DEBUG]  Deflating res/drawable/common_plus_signin_btn_icon_dark.xml
+[DEBUG]  Deflating res/drawable/common_plus_signin_btn_icon_light.xml
+[DEBUG]  Deflating res/drawable/common_plus_signin_btn_text_dark.xml
+[DEBUG]  Deflating res/drawable/common_plus_signin_btn_text_light.xml
+[DEBUG]  Adding res/drawable/disclosure_64.png
+[DEBUG]  Deflating res/layout-v17/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout-v17/abc_search_view.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_lines.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_media.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout-v17/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout-v17/place_autocomplete_item_powered_by_google.xml
+[DEBUG]  Deflating res/layout-v17/place_autocomplete_item_prediction.xml
+[DEBUG]  Deflating res/layout-v21/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout-v21/place_autocomplete_fragment.xml
+[DEBUG]  Deflating res/layout-v21/place_autocomplete_progress.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout-v21/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_title_item.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_up_container.xml
+[DEBUG]  Deflating res/layout/abc_action_bar_view_list_nav_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_bar.xml
+[DEBUG]  Deflating res/layout/abc_action_mode_close_item_material.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view.xml
+[DEBUG]  Deflating res/layout/abc_activity_chooser_view_list_item.xml
+[DEBUG]  Deflating res/layout/abc_alert_dialog_material.xml
+[DEBUG]  Deflating res/layout/abc_dialog_title_material.xml
+[DEBUG]  Deflating res/layout/abc_expanded_menu_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_checkbox.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_icon.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_list_menu_item_radio.xml
+[DEBUG]  Deflating res/layout/abc_popup_menu_item_layout.xml
+[DEBUG]  Deflating res/layout/abc_screen_content_include.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple.xml
+[DEBUG]  Deflating res/layout/abc_screen_simple_overlay_action_mode.xml
+[DEBUG]  Deflating res/layout/abc_screen_toolbar.xml
+[DEBUG]  Deflating res/layout/abc_search_dropdown_item_icons_2line.xml
+[DEBUG]  Deflating res/layout/abc_search_view.xml
+[DEBUG]  Deflating res/layout/abc_select_dialog_material.xml
+[DEBUG]  Deflating res/layout/notificare_alert_dialog.xml
+[DEBUG]  Deflating res/layout/notificare_callback_camera.xml
+[DEBUG]  Deflating res/layout/notificare_callback_camera_keyboard.xml
+[DEBUG]  Deflating res/layout/notificare_callback_keyboard.xml
+[DEBUG]  Deflating res/layout/notificare_notification_container.xml
+[DEBUG]  Deflating res/layout/notificare_notification_fragment.xml
+[DEBUG]  Deflating res/layout/notificare_notification_image.xml
+[DEBUG]  Deflating res/layout/notificare_webview_fragment.xml
+[DEBUG]  Deflating res/layout/notification_media_action.xml
+[DEBUG]  Deflating res/layout/notification_media_cancel_action.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media.xml
+[DEBUG]  Deflating res/layout/notification_template_big_media_narrow.xml
+[DEBUG]  Deflating res/layout/notification_template_lines.xml
+[DEBUG]  Deflating res/layout/notification_template_media.xml
+[DEBUG]  Deflating res/layout/notification_template_part_chronometer.xml
+[DEBUG]  Deflating res/layout/notification_template_part_time.xml
+[DEBUG]  Deflating res/layout/place_autocomplete_fragment.xml
+[DEBUG]  Deflating res/layout/place_autocomplete_item_powered_by_google.xml
+[DEBUG]  Deflating res/layout/place_autocomplete_item_prediction.xml
+[DEBUG]  Deflating res/layout/place_autocomplete_progress.xml
+[DEBUG]  Deflating res/layout/select_dialog_item_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_multichoice_material.xml
+[DEBUG]  Deflating res/layout/select_dialog_singlechoice_material.xml
+[DEBUG]  Deflating res/layout/support_simple_spinner_dropdown_item.xml
+[DEBUG]  Deflating res/layout/titanium_tabgroup.xml
+[DEBUG]  Deflating res/layout/titanium_ui_checkbox.xml
+[DEBUG]  Deflating res/layout/titanium_ui_date_picker_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_edittext.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG]  Deflating res/layout/titanium_ui_list_item.xml
+[DEBUG]  Deflating res/layout/titanium_ui_spinner.xml
+[DEBUG]  Deflating res/layout/titanium_ui_switchcompat.xml
+[DEBUG]  Deflating res/layout/titanium_ui_time_picker_spinner.xml
+[DEBUG]  Deflating res/raw/gtm_analytics
+[DEBUG]  Deflating res/xml/notificare_preferences.xml
+[DEBUG]  Deflating resources.arsc
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/notificare-titanium-android.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/android-beacon-library-2.7.jar
+[DEBUG]  Deflating model-distance-calculations.json
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/notificare-push-lib.jar
+[DEBUG]  Deflating com/android/vending/billing/IInAppBillingService.aidl
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-base-8.4.0.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-basement-8.4.0.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-gcm-8.4.0.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-location-8.4.0.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/modules/android/ti.notificare/1.7.0/lib/play-services-maps-8.4.0.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-v8.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-analytics.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/aps-analytics.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-android.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/jaxen-1.1.1.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/ti-commons-codec-1.3.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/kroll-common.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/titanium.jar
+[DEBUG]  Deflating org/appcelerator/titanium/build.properties
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/background.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_100.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG]  Adding org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-app.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-ui.jar
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG]  Deflating ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/nineoldandroids-appc-2.4.0.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-filesystem.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-media.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-appcompat.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v4.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/android-support-v7-appcompat.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-cardview.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/cardview-v7-23.0.1.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-locale.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-network.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-xml.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-platform.jar
+[DEBUG]  Processing /Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/modules/titanium-database.jar
+[DEBUG]  Adding classes.dex
+[INFO]   Processing /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/src
+[DEBUG]  Adding lib/armeabi/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi/libtiverify.so
+[DEBUG]  Adding lib/armeabi-v7a/libkroll-v8.so
+[DEBUG]  Adding lib/armeabi-v7a/libstlport_shared.so
+[DEBUG]  Adding lib/armeabi-v7a/libtiverify.so
+[DEBUG]  Adding lib/x86/libkroll-v8.so
+[DEBUG]  Adding lib/x86/libstlport_shared.so
+[DEBUG]  Adding lib/x86/libtiverify.so
+[DEBUG]  Adding lib/armeabi/libti.notificare.so
+[DEBUG]  Adding lib/armeabi-v7a/libti.notificare.so
+[DEBUG]  Adding lib/x86/libti.notificare.so
+[INFO]   Writing unsigned apk: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/app-unsigned.apk
+[INFO]   Using MD5withRSA signature algorithm
+[INFO]   Signing apk: /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/bin/jarsigner "-sigalg" "MD5withRSA" "-digestalg" "SHA1" "-keystore" "/Users/joris/Library/Application Support/Titanium/mobilesdk/osx/5.1.2.GA/android/dev_keystore" "-storepass" "*******" "-signedjar" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/AppceleratorApp.apk" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/app-unsigned.apk" "tidev"
+[INFO]   Aligning zip file: /Users/joris/Library/Android/sdk/build-tools/23.0.2/zipalign "-v" "4" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/AppceleratorApp.apk" "/Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/AppceleratorApp.apkz"
+[INFO]   Writing build manifest: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/build-manifest.json
+[INFO]   Making sure the adb server is running
+[INFO]   Installing apk: /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/AppceleratorApp.apk
+[INFO]   Installing app on device: XT1572
+[TRACE]  Checking if package manager service is started
+[TRACE]  Package manager has started
+[TRACE]  Executing: /Users/joris/Library/Android/sdk/platform-tools/adb -s TA39100ER9 install -r /Users/joris/Developer/Projects/notificare-push-lib-appcelerator/android/example/Demo/build/android/bin/AppceleratorApp.apk
+[INFO]   App successfully installed
+[INFO]   Starting app: re.notifica.demo.geo/.AppceleratorappActivity
+[DEBUG]  Trying to start the app...
+[INFO]   Application pid: 8469
+[INFO]   Project built successfully in 1m 13s 627ms
